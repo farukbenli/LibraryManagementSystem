@@ -1,0 +1,21 @@
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Properties.Resources.resources
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+c:\users\büşra\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.ana_menu.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.admin_girisi.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.yeni_kullanici.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.kullanici_giris.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.sifre_al.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.Kullanici.resources
+C:\Users\BÜŞRA\documents\visual studio 2010\Projects\kütüphane\kütüphane\obj\x86\Debug\kütüphane.admin.resources
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+C:\Users\Ömer Faruk\Desktop\Yeni klasör (3)\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+C:\Users\Ömer Faruk\Desktop\Kod\Staj\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+C:\Users\Ömer Faruk\Desktop\Kod\Staj\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
+D:\Yeni klasör\Ders notu\DERS NOTLARI\Kod\Staj\kütüphane\kütüphane\obj\x86\Debug\kütüphane.exe
+D:\Yeni klasör\Ders notu\DERS NOTLARI\Kod\Staj\kütüphane\kütüphane\obj\x86\Debug\kütüphane.pdb
